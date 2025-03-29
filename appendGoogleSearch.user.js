@@ -11,7 +11,6 @@
 
 (function () {
     'use strict'
-    //https://www.google.com/search?q=co+zrobi%C4%87+jak+nie+domyka+si%C4%99+okno+-bambary%C5%82%C4%85&sourceid=chrome&ie=UTF-8
     document.onreadystatechange = function (e) {
         if (document.readyState === 'complete') {
 
