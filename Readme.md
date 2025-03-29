@@ -1,0 +1,1 @@
+<a href="https://example.com/your_script.user.js">Click to install script X</a>
