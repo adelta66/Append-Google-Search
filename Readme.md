@@ -1,1 +1,1 @@
-<a href="https://github.com/adelta66/Append-Google-Search/blob/main/appendGoogleSearch.user.js">Click to install script</a>
+<a href="https://github.com/adelta66/Append-Google-Search/raw/refs/heads/main/appendGoogleSearch.user.js">Click to install script</a>
